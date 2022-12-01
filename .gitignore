@@ -1,0 +1,5 @@
+node_modules/
+*.iml
+.idea/*.iml
+.idea/workspace.xml
+.DS_Store
